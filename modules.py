@@ -1,4 +1,3 @@
-def greet_user(name):
-    return f"Hello, {name}! Welcome to Python."
-
-print(greet_user("Ayesha"))
+import streamlit as st 
+st.title('welcome to corvit')
+st.write('we r learning python language')
